@@ -12,7 +12,7 @@
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px;
-    font-family: cursive;
+    font-family: arial;
 }
 .calc_display{
     display: flex;
